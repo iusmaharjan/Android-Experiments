@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "experiments-3fdcc",
+    "project_number": "272554354043",
+    "name": "Experiments"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272554354043:android:bef0bba0ae125db2",
+        "client_id": "android:com.ayushmaharjan.learning.experiments",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.ayushmaharjan.learning.experiments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272554354043-ulebsr4ak4729kej80k9jpb67t8fjh75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayushmaharjan.learning.experiments",
+            "certificate_hash": "1DA433E9B75E13496060F26C2EFA5C3994717F36"
+          }
+        },
+        {
+          "client_id": "272554354043-muo3g91vvfdan7bivlanscjduc95d20e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

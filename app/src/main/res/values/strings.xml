@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Experiments</string>
+
+    <string name="server_client_id">272554354043-muo3g91vvfdan7bivlanscjduc95d20e.apps.googleusercontent.com</string>
 </resources>
